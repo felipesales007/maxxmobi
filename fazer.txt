@@ -1,0 +1,5 @@
+1 - novo gif de carregamento
+
+2 - scroll leva para proxima id #empresa ...
+
+3 - paralax no carousel

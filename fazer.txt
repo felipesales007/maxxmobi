@@ -1,3 +1,1 @@
-1 - scroll leva para proxima id #empresa ...
-
-2 - paralax no carousel
+1 - scroll suave

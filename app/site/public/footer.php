@@ -1,22 +1,22 @@
 <footer class="footer footer-default">
     <div class="container">
-        <nav class="float-left">
+        <nav class="float-left fe-link-rodape">
             <ul>
                 <!-- home -->
                 <li>
-                    <a href="#" class="btn btn-link btn-maxxmobi">Home</a>
+                    <a href="#home" class="btn btn-link btn-maxxmobi fe-scroll-home">Home</a>
                 </li>
                 <!-- empresa -->
                 <li>
-                    <a href="#" class="btn btn-link btn-maxxmobi">Empresa</a>
+                    <a href="#empresa" class="btn btn-link btn-maxxmobi  fe-scroll-empresa">Empresa</a>
                 </li>
                 <!-- serviços -->
                 <li>
-                    <a href="#" class="btn btn-link btn-maxxmobi">Serviços</a>
+                    <a href="#servicos" class="btn btn-link btn-maxxmobi fe-scroll-servicos">Serviços</a>
                 </li>
                 <!-- contato -->
                 <li>
-                    <a href="#" class="btn btn-link btn-maxxmobi">Contato</a>
+                    <a href="#contato" class="btn btn-link btn-maxxmobi fe-scroll-contato">Contato</a>
                 </li>
                 <!-- social -->
                 <li class="fe-bar-social">

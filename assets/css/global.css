@@ -119,7 +119,9 @@ a {
     width: 100%;
     height: 100%;
     top: 0;
-    background: url('http://i.imgur.com/zAD2y29.gif') 50% 50% no-repeat white;
+    background: url('../img/default/carregando.gif') 50% 50% no-repeat;
+    background-color: #0f3b56;
+    background-size: 60px;
 }
 
 .fe-carregado {
@@ -251,6 +253,21 @@ a {
     top: 7px;
 }
 
+/* rodapé */
+
+.fe-link-rodape {
+    margin-top: 10px;
+}
+
+.footer .fe-bar-social {
+    position: relative;
+    top: -4px;
+    left: 6px;
+}
+
+.footer .copyright {
+    margin-top: 3px;
+}
 /* responsividade */
 
 @media only screen and (min-width: 992px) {
@@ -271,7 +288,7 @@ a {
     .fe-bar-social {
         margin-left: -9px;
     }
-
+    
     .carousel {
         margin-bottom: 50px;
     }
@@ -282,7 +299,7 @@ a {
 
     .carousel-item img {
         position: relative;
-        width: 200% !important;
+        width: 100vh !important;
         left: 150px;
         float: right;
     }

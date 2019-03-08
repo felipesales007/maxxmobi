@@ -16,7 +16,7 @@ Conheça a [maxxmobi](https://www.maxxmobi.com.br/).
 ## Mais telas
 
 | SOBRE |
-| --- | --- |
+| --- |
 | <img src="https://uploaddeimagens.com.br/images/001/947/584/original/22.PNG" width="300" height="200" />
 
 ## Suporte nos navegadores

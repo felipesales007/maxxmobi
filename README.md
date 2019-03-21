@@ -6,7 +6,10 @@
 
 Sistema em desenvolvimento para a empresa **maxxmobi** para apresentação de serviços disponibilizado por ela e clientes que possui no mercado.
 
+&nbsp;
 Conheça o [desenvolvedor](https://www.felipesales.com.br).
+
+&nbsp;
 Conheça a [maxxmobi](https://www.maxxmobi.com.br/).
 
 ## Versão disponível

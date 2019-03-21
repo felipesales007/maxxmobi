@@ -1,4 +1,4 @@
-# [maxxmobi](https://laravel.com)
+# maxxmobi
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 
@@ -17,7 +17,7 @@ Conheça a [maxxmobi](https://www.maxxmobi.com.br/).
 
 | SOBRE |
 | --- |
-| <img src="https://uploaddeimagens.com.br/images/001/947/584/original/22.PNG" width="450" height="250" />
+| <img src="https://uploaddeimagens.com.br/images/001/947/584/original/22.PNG" width="420" height="250" />
 
 ## Suporte nos navegadores
 

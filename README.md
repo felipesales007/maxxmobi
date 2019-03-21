@@ -14,7 +14,7 @@ Conheça a [maxxmobi](https://www.maxxmobi.com.br/).
 
 ## Versão disponível
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="100" height="100" />](https://laravel.com)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="100" height="100" />](http://www.php.net/)
 
 ## Mais telas
 
